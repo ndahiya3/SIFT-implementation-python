@@ -10,7 +10,7 @@ import random as rand
 # by David G. Lowe; IJCV 2004:
 # https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf
 
-# Code implemented by Navdeep Dahiya; ndahiya3@gatech.edu; 902409566
+# Code implemented by Navdeep Dahiya; ndahiya3@gatech.edu;
 
 def extractSIFTFeatures(gray, octaves, scales, sigma, sigmaN, k):
     # Extract SIFT features from input gray image
